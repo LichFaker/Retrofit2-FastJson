@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit2-FastJson</string>
+    <string name="title_activity_rx_retrofit">RxRetrofitActivity</string>
+</resources>

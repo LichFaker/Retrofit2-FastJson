@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lichfaker/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/lichfaker/Github/MyLib/Retrofit2-FastJson/app/build/intermediates/pre-dexed/debug/rxjava-1.1.0-8bbc53d58a2b885bb64bb28cc944761bf43369b6.jar" />
+    </item>
+    <item
+        jar="/Users/lichfaker/Github/MyLib/Retrofit2-FastJson/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/lichfaker/Github/MyLib/Retrofit2-FastJson/app/build/intermediates/pre-dexed/debug/classes-25c765b5ee1900406303d1a2bb97eaa858ba6e58.jar" />
+    </item>
+
+</items>
